@@ -1,0 +1,36 @@
+.don{
+    display: block;
+margin-Top:279px;
+margin-Left:205px;
+text-align: center;
+}
+.success{
+width: 324px;
+height: 22px;
+
+
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 22px;
+
+
+
+color: #1A110A;
+
+}
+.reussi{
+    text-align:left;
+    display: block;
+    padding-top: 466px;
+    padding-left: 0px;
+}
+.body-container{
+    display: flex;
+    text-align: center;
+    align-content: space-evenly;
+    
+}

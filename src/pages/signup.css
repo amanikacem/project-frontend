@@ -1,0 +1,73 @@
+.nom{
+height: 52px;
+width: 416px;
+border-radius: 8px;
+margin-bottom: 20px;
+align-content: space-evenly;width: 416px;
+box-sizing: border-box;
+
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.ML{
+    height: 52px;
+width: 416px;
+border-radius: 8px;
+
+align-content: space-evenly;width: 416px;
+box-sizing: border-box;
+
+background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+}
+.sins{
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: center;
+color:#222222;
+text-decoration: none;
+width: 79px;
+height: 28px;
+}
+.cox{
+    text-decoration: none;
+    color: #C99A2E;
+}
+.check-box{
+    margin-top: 18px;
+    
+
+
+}
+.politique{
+width: 329px;
+height: 22px;
+left: 820px;
+top: 793px;
+color: #222222;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+margin-left: 14px;
+}
+.checked{
+height: 20px;
+width: 19.990034103393555px;
+left: 2px;
+top: 2px;
+border-radius: 0px;
+accent-color: #E9B949;
+
+}
+.confidentialite{
+    color: #2680C2;
+    text-decoration: none;
+}

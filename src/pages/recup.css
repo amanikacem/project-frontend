@@ -1,0 +1,39 @@
+.input3{
+    height: 52px;
+    width: 416px;
+    background: #FFFFFF;
+border: 1px solid #E1E1E1;
+border-radius: 8px;
+    border-radius: 8px;
+    margin-top: 20px;
+    
+     
+}
+.renitialiser{
+    height: 56px;
+    width: 416px;
+   margin-top:24px;
+    border-radius: 8px;
+    border:none;
+     background: #E9B949;
+    ;
+    
+
+}
+.Seconnecter{
+    text-decoration: none;
+    width: 100px;
+height: 28px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+
+
+text-align: center;
+
+color: #222222;
+}

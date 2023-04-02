@@ -1,0 +1,354 @@
+*{
+    padding:0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+}
+
+  
+
+.piedpage{
+display: grid;
+justify-content: end;
+align-content: end;
+
+}
+.footer{
+position: relative;
+left: 0%;
+right: 0%;
+margin-top: 72.3%;
+margin-bottom: 0%;
+height: 413px;
+width: 1440px;
+margin-left: 0px;
+margin-top: 1078px;
+border-radius: 0px;
+background: #222222;
+
+}
+.container{
+    display: grid;
+    width: 100%;
+    height: auto;
+    margin-top: 60px;
+    margin-bottom: 24px;
+    width:100%;
+    grid: gap 40px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.section{
+    margin-left: 135px;
+ 
+
+}
+.logoT{
+margin-bottom: 17px;
+height: 42px;
+width: 99px;
+
+border-radius: 0px;
+
+}
+p{
+height: 120px;
+width: 263px;
+
+border-radius: 0;
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: left;
+color:white;
+text-decoration: none;
+}
+.cls{
+ width:0;
+ height: 0;
+ margin-top: 30%;
+ margin-left: 20%;
+
+}
+
+
+.soci{
+   
+    width: 12px;
+    height: 12px;
+    text-decoration: none;
+    list-style-type: none;
+   display: inline-block;
+   width: 24px;
+   height: 24px;
+   display:grid;
+   align-content: center;
+   grid-template-columns: repeat(4, 50px);
+   padding-left: 0;
+
+}
+.apropos{
+    list-style: none;
+    text-decoration: none;
+    font-family: Inter;
+   
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    padding-left: 0px;
+
+
+}
+  
+
+
+
+.lien{
+    position: relative;
+    margin-top: 81px;
+    margin-bottom: 303px;
+    margin-right: 59px;
+  
+}
+
+
+
+h2{
+    font-family: Merriweather;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 23px;
+    width: 125px;
+    left: 518px;
+    top: 1701px;
+    border-radius: 0px;
+    color: white;   
+
+   
+}
+
+
+.soci1{
+    height: 24px;
+    width: 24px;
+    left: 179px;
+    top: 1344px;
+    border-radius: 15px;
+    color: white;
+    
+}
+.soci2{
+    height: 24px;
+    width: 24px;
+    left: 179px;
+    top: 1344px;
+    border-radius: 15px;
+    color: white;
+    
+}
+.soci3{
+    height: 24px;
+    width: 24px;
+    left: 179px;
+    top: 1344px;
+    border-radius: 15px;
+    color: white;
+    
+}
+
+.soci4{
+   
+    border-radius: 15px;
+    color: white;
+
+    
+}
+.aprop{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    width: 64px;
+    height: 19px;    
+    margin-bottom: 24px;
+
+  
+   
+
+}
+.shop{
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
+    height: 17px;
+    width: 35px;
+    left: 518px;
+    top: 1255px;
+    border-radius: 0px;
+    margin-bottom: 24px;
+    }
+    .dev{
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        list-style: none;
+        text-decoration: none;
+        height: 17px;
+        width: 124px;
+        left: 518px;
+        top: 1296px;
+
+
+        border-radius: 0px;
+        margin-bottom: 24px;
+        }
+        .sec{
+            position: relative;
+            margin-top: 81px;
+            margin-bottom: 309px;
+        }
+        .categorie{
+            list-style: none;
+            text-decoration: none;
+            font-family: Inter;
+           
+            font-size: 15px;
+            font-weight: 500;
+            line-height: 30px;
+            letter-spacing: 0px;
+            text-align: left;
+            mix-blend-mode: normal;
+            opacity: 0.8;
+            
+
+        }
+        .sco{
+
+        color: white;
+        text-decoration: none;
+        display: inline-block;
+        list-style: none;
+        text-decoration: none;
+        height: 17px;
+        width: 54px;
+        border-radius: 0px;
+        margin-bottom: 24px;
+        }
+        .para{
+
+            color: white;
+            text-decoration: none;
+            display: inline-block;
+            list-style: none;
+            text-decoration: none;
+            Width: 97px;
+            Height:17px;
+            border-radius: 0px;
+            margin-bottom: 24px;
+            }
+            .outils{
+
+                color: white;
+                text-decoration: none;
+                display: inline-block;
+                list-style: none;
+                text-decoration: none;
+                Width: 135px;
+                Height:17px;
+                border-radius: 0px;
+                margin-bottom: 24px;
+                }
+                .divers{
+
+                    color: white;
+                    text-decoration: none;
+                    display: inline-block;
+                    list-style: none;
+                    text-decoration: none;
+                    Width: 45px;
+                    Height:17px;
+                    border-radius: 0px;
+                    margin-bottom: 24px;
+                    }
+                    .jeux{
+
+                        color: white;
+                        text-decoration: none;
+                        display: inline-block;
+                        list-style: none;
+                        text-decoration: none;
+                        Width: 98px;
+                        Height:17px;
+                        border-radius: 0px;
+                        margin-bottom: 24px;
+                        }
+                        .contact{
+                            margin-top: 81px;
+                            font-family: Inter;
+font-size: 15px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0px;
+text-align: left;
+
+
+                           
+                        }
+                        .loca{
+                            height: 17.083335876464844px;
+width: 14.791631698608398px;
+margin-left: 2.599609375px;
+margin-top: 1.458984375px;
+border-radius: 0px;
+color: #F7F7F7;
+
+
+                        }
+                        .address{
+                            list-style: none;
+                            text-decoration: none;
+                            color: #FFFFFF;
+
+                        }
+                        .phone{
+                            list-style: none;
+                            text-decoration: none;
+                            color: #FFFFFF;
+
+                        }
+                        .cal{
+                         
+                          top: 8.33%;
+                            margin-bottom: 28.78%;
+                            
+                            color: #F7F7F7;
+
+                        }
+                        .eml{
+                            height: 14.166666984558105px;
+width: 16.666664123535156px;
+margin-left: 1.666015625px;
+margin-top: 2.916015625px;
+border-radius: 0px;
+color: #F7F7F7;
+
+                        }
+                        .mail{
+                            list-style: none;
+                            text-decoration: none;
+                            color: #FFFFFF;
+
+                        }
